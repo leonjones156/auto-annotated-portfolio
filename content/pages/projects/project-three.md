@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: CYBER PAW
+title: 'CYBER PAW #1'
 colors: colors-a
 date: '2024-12-17'
 client: Awesome client
