@@ -14,7 +14,7 @@ featuredImage:
   altText: 'One of my favorite cyberp pup and still not the best of what I have in mind '
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/1000000054.webp
   altText: Project image
 ---
 
