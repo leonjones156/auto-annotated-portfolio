@@ -1,0 +1,54 @@
+{
+    "model": "ProjectLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "CYBER ",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "1"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "project-three",
+                "title": "CYBER PAW #1",
+                "date": "2024-12-17",
+                "client": "Awesome client",
+                "description": "It's only the begging of what I have in mind hope you all enjoy 😉 ",
+                "featuredImage": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/1000000055.webp",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Project thumbnail image",
+                    "caption": null,
+                    "elementId": null
+                },
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/1000000055.webp",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Project image",
+                    "caption": null,
+                    "elementId": null
+                },
+                "bottomSections": [],
+                "metaTitle": null,
+                "metaDescription": null,
+                "addTitleSuffix": null,
+                "socialImage": null,
+                "metaTags": [],
+                "colors": "colors-a",
+                "backgroundImage": null,
+                "markdown_content": "\n\n"
+            },
+            "thumbnail": "images/project-layout-cyber-ad5a.png"
+        }
+    ]
+}
