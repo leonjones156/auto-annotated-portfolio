@@ -94,7 +94,7 @@ sections:
       - content/pages/blog/post-six.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
-    showDate: false
+    showDate: true
     showExcerpt: true
     showReadMoreLink: true
     styles:
