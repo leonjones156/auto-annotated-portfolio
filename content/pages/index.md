@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer, digital ARTIST'
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "I have always wanted to create my own NFT now I'm making my dream come true I hope you all enjoy my art I'm looking forward to what the future holds \U0001FAE1"
     styles:
       self:
         height: auto
