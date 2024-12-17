@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: 'NFT CYBER PAW COLLECTION '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
