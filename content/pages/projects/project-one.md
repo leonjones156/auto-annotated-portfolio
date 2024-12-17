@@ -4,10 +4,7 @@ title: CYBER PUP
 colors: colors-a
 date: '2024-12-17'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Here is my my little CYBER PUP name is RJ
 featuredImage:
   type: ImageBlock
   url: /images/1000000054.webp
