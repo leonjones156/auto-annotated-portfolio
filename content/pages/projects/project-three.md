@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: CYBER PAW
 colors: colors-a
-date: '2022-01-22'
+date: '2024-12-17'
 client: Awesome client
 description: "It's only the begging of what I have in mind hope you all enjoy \U0001F609 "
 featuredImage:
