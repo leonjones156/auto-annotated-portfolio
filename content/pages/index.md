@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a developer, digital ARTIST'
-    subtitle: "I have always wanted to create my own NFT now I'm making my dream come true I hope you all enjoy my art I'm looking forward to what the future holds \U0001FAE1"
+    subtitle: >-
+      I have always wanted to create my own NFT now I'm making my dream come
+      true I hope you all enjoy my art I'm looking forward to what the future
+      holds
     styles:
       self:
         height: auto
