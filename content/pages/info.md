@@ -22,53 +22,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -130,24 +83,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-          - type: Link
-            label: Learn more
-            altText: ''
-            url: '/https://x.com/CyberPaw222?t=NVB8vI04IjkrA5kjHG5wLQ&s=09'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-          - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/CyberPaw222?t=QSu1uOaz6MARf04brI-ang&s=09'
         styles:
           self:
             textAlign: left
@@ -208,26 +145,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
