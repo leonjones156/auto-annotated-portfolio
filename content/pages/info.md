@@ -84,7 +84,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/CyberPaw222?t=QSu1uOaz6MARf04brI-ang&s=09'
         styles:
           self:
             textAlign: left
