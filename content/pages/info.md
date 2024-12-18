@@ -130,6 +130,14 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
+            label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+          - type: Link
             label: Twitter
             url: 'https://twitter.com/'
         styles:
