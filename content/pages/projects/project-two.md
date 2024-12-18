@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/1000000055.webp
+  url: /images/1000000065.webp
   altText: Project image
 ---
 
