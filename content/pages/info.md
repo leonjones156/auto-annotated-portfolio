@@ -19,7 +19,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/1000000058.webp
       altText: Hero image
     styles:
       self:
