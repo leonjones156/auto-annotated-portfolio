@@ -138,6 +138,14 @@ sections:
             iconPosition: right
             elementId: ''
           - type: Link
+            label: Learn more
+            altText: ''
+            url: '/https://x.com/CyberPaw222?t=NVB8vI04IjkrA5kjHG5wLQ&s=09'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+          - type: Link
             label: Twitter
             url: 'https://twitter.com/'
         styles:
