@@ -10,41 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: >+
-      ## Hey I’m a developer trying to make the best out of life creating NFT
-      Hope you guys enjoy my work 
-
-    media:
-      type: ImageBlock
-      url: /images/1000000058.webp
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: DividerSection
     styles:
       self:
@@ -116,6 +81,41 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    text: >+
+      ## Hey I’m a developer trying to make the best out of life creating NFT
+      Hope you guys enjoy my work 
+
+    media:
+      type: ImageBlock
+      url: /images/1000000058.webp
+      altText: Hero image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-16
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
   - type: FeaturedItemsSection
     colors: colors-f
     items:
